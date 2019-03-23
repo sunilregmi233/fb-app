@@ -170,11 +170,14 @@ ul, ol{
     background-image: url('../images/Post-01.png');
 }
 .sandipbg1:before{
-    content: "Congratulation";
-    color: red;
-    margin-left: 39%;
+    content: "Congratulation ";
+    color: rgb(243, 233, 233);
+    border: 1px solid blue;
+    margin-left: 34%;
+    background-color: #354f98;
     position: absolute;
     margin-top: 82px;
+    font-size: 3rem;
     
 
 }
@@ -182,21 +185,27 @@ ul, ol{
     background-image: url('../images/Post-02.png'); 
 }
 .sandipbg2:before{
-    content: "Congratulation";
-    color: red;
-    margin-left: 39%;
+    content: "Congratulation ";
+    color: rgb(243, 233, 233);
+    border: 1px solid blue;
+    margin-left: 34%;
+    background-color: #354f98;
     position: absolute;
     margin-top: 82px;
+    font-size: 3rem;
 }
 .sandipbg3{
     background-image: url('../images/Post-03.png');
 }
 .sandipbg3:before{
-    content: "Congratulation";
-    color: red;
-    margin-left: 39%;
+    content: "Congratulation ";
+    color: rgb(243, 233, 233);
+    border: 1px solid blue;
+    margin-left: 34%;
+    background-color: #354f98;
     position: absolute;
     margin-top: 82px;
+    font-size: 3rem;
     
 }
 
