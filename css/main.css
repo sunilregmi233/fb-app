@@ -169,12 +169,37 @@ ul, ol{
 .sandipbg1{
     background-image: url('../images/Post-01.png');
 }
+.sandipbg1:before{
+    content: "Congratulation";
+    color: red;
+    margin-left: 39%;
+    position: absolute;
+    margin-top: 82px;
+    
+
+}
 .sandipbg2{
     background-image: url('../images/Post-02.png'); 
+}
+.sandipbg2:before{
+    content: "Congratulation";
+    color: red;
+    margin-left: 39%;
+    position: absolute;
+    margin-top: 82px;
 }
 .sandipbg3{
     background-image: url('../images/Post-03.png');
 }
+.sandipbg3:before{
+    content: "Congratulation";
+    color: red;
+    margin-left: 39%;
+    position: absolute;
+    margin-top: 82px;
+    
+}
+
 img#bat {
     position: absolute;
     right: 154px;
